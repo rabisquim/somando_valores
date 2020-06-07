@@ -1,0 +1,45 @@
+body {
+    color: white;
+    font: normal 18pt Helvetica;
+    text-align: center;
+    background: orange;
+          
+    }
+
+div {
+    font: oblique 19pt Times;
+  }
+
+input {
+     font: normal 18pt Arial;
+     width: 100px;
+    }
+
+div#res {
+       margin-top: 20px;
+       font-family: 'Roboto' , sans-serif;
+       color: white;
+      }
+
+input {
+        text-align: center;
+        outline: none;
+        background: white;color: white;
+        outline: none;
+        background: orange;
+        border: solid 1px white;
+        border-radius: 4px;
+}
+input#soma {
+          color: white;
+          text-align: center;
+          outline: none;
+          background: orange;
+          border: solid 1px white;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
